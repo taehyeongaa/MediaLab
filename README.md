@@ -13,7 +13,9 @@ The results of the SIFT and SURF were able to confirm that the SIFT was quicker,
 Since each of the pros and cons has existed, it would be better to use them for their own projects.I don't want anything bad to do,
 and I guess I'll have to use it for each occasion.
 
-Became interesting experience and I made myself
+Became interesting experience 
+
+
 Please visit my blog to find out more about it.
 
 
