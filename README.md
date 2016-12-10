@@ -1,5 +1,5 @@
 # MediaLab
-# Welcome to my github.
+Welcome to my github.
 This sources -> files are real time video objects detection.
 This project uses the visual Studio 2015 and version 3.1 version.(Images and images are attached.)
 
@@ -15,5 +15,6 @@ and I guess I'll have to use it for each occasion.
 
 Became interesting experience and I made myself
 Please visit my blog to find out more about it.
-# boysboy3.tistory.com
-# made by TaeHyung
+-> boysboy3.tistory.com
+- made by TaeHyung
+Thanks.
